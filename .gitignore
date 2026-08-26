@@ -1,0 +1,9 @@
+
+# Go
+paperfolio
+*.test
+/bin/
+
+# macOS
+.DS_Store
+
